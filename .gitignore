@@ -1,0 +1,5 @@
+# Optional local tooling
+node_modules/
+dist/
+.DS_Store
+Thumbs.db
